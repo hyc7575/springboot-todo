@@ -23,6 +23,8 @@ gradlew.bat bootRun
 
 서버 주소는 `http://localhost:8080`입니다.
 
+서버 실행 후 [Swagger UI](http://localhost:8080/swagger-ui.html)에서 API 명세를 확인하고 요청을 테스트할 수 있습니다.
+
 ## API 명세
 
 ### 할 일 생성
